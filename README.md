@@ -5,4 +5,8 @@ This is python script to resize the images or reduced the size of images stored 
 ## To run the project
 * Fork this repository
 * set basewidth according to you(set to 600 automatically)
-* run this command `python3 imageResizer.py` in terminal if you dont have python3 install from [link](https://www.python.org/downloads/)
+* run this command
+ `
+python3 imageResizer.py
+` 
+in terminal if you dont have python3 install from [link](https://www.python.org/downloads/)
